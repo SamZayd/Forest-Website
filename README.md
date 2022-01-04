@@ -1,4 +1,4 @@
-[![SamZayd for Forest Website svg](https://github.com/SamZayd/Forest-Website/blob/master/readme%20file/arrow.gif)]
+[!SamZayd for Forest Website svg](https://github.com/SamZayd/Forest-Website/blob/master/readme%20file/arrow.gif)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm SamZayd
